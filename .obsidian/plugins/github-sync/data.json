@@ -1,0 +1,7 @@
+{
+  "remoteURL": "https://github.com/SylviaDillion/Obsidian_DatabaseNote.git",
+  "gitLocation": "/usr/bin/git",
+  "syncinterval": 5,
+  "isSyncOnLoad": true,
+  "checkStatusOnLoad": true
+}
