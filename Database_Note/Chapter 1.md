@@ -1,6 +1,4 @@
----
-github_repo: Sylvia|ObsidianNote
----
+
 # data
 - raw facts
 - building blocks of information

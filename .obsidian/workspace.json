@@ -13,32 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database_Note/Chapter 1.md",
+                "file": "Database_Note/Chapter2.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chapter 1"
+              "title": "Chapter2"
             }
           }
         ]
       },
       {
-        "id": "54cb170f2b6a924e",
+        "id": "d22d1c4fc9c15e27",
         "type": "tabs",
         "children": [
           {
-            "id": "52e4dc76fdebeb2f",
+            "id": "b66074d67c542ab7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database_Note/Chapter 1.md",
-                "mode": "source",
-                "source": false
+                "file": "Database_Note/Chapter2.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Chapter 1"
+              "title": "Chapter2"
             }
           }
         ]
@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database_Note/Chapter 1.md",
+                "file": "Database_Note/Chapter2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 1"
+              "title": "Outline of Chapter2"
             }
           }
         ],
@@ -176,11 +176,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "github-sync:Sync with Remote": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -190,12 +190,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c288cdcce8904ccf",
+  "active": "fd6a8c72b67904fb",
   "lastOpenFiles": [
+    "Pasted image 20251103205037.png",
+    "Database_Note/Chapter 1.md",
+    "Database_Note/Chapter2.md",
     "Database_Note/Pasted image 20251102212127.png",
     "Database_Note/Pasted image 20251102211707.png",
-    "Database_Note/Chapter 1.md",
-    "Database_Note/Chapter 1.md",
     "Functions.md",
     "Database_Note",
     "C++PrimerPlusLearing",
