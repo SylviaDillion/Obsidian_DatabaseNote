@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database_Note/Chapter2.md",
+                "file": "Database_Note/Chapter2/Chapter2.md",
                 "mode": "source",
                 "source": true
               },
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database_Note/Chapter2.md",
+                "file": "Database_Note/Chapter2/Chapter2.md",
                 "mode": "preview",
                 "source": true
               },
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database_Note/Chapter2.md",
+                "file": "Database_Note/Chapter2/Chapter2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,13 +190,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd6a8c72b67904fb",
+  "active": "d1efe252003ee841",
   "lastOpenFiles": [
-    "Pasted image 20251103205037.png",
-    "Database_Note/Chapter 1.md",
-    "Database_Note/Chapter2.md",
-    "Database_Note/Pasted image 20251102212127.png",
-    "Database_Note/Pasted image 20251102211707.png",
+    "Database_Note/Chapter2",
+    "Database_Note/Chapter1",
+    "Database_Note/Chapter2/Pasted image 20251103205037.png",
+    "Database_Note/Chapter1/Chapter 1.md",
+    "Database_Note/Chapter2/Chapter2.md",
+    "Database_Note/Chapter1/Pasted image 20251102212127.png",
+    "Database_Note/Chapter1/Pasted image 20251102211707.png",
     "Functions.md",
     "Database_Note",
     "C++PrimerPlusLearing",
